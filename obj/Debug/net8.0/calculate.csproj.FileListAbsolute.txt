@@ -1,0 +1,14 @@
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\bin\Debug\net8.0\calculate.exe
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\bin\Debug\net8.0\calculate.deps.json
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\bin\Debug\net8.0\calculate.runtimeconfig.json
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\bin\Debug\net8.0\calculate.dll
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\bin\Debug\net8.0\calculate.pdb
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\calculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\calculate.AssemblyInfoInputs.cache
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\calculate.AssemblyInfo.cs
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\calculate.csproj.CoreCompileInputs.cache
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\calculate.dll
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\refint\calculate.dll
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\calculate.pdb
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\calculate.genruntimeconfig.cache
+C:\Users\Kwabe\Desktop\Code\Csharp\calculate\obj\Debug\net8.0\ref\calculate.dll
